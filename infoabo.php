@@ -31,7 +31,7 @@ else{
 affiche l'option selected le cas échéant*/
 ?>
 <html>
-<head><title>Information sur les abonnés</title></head>
+<head><title>Information sur les abonnés !</title></head>
 <body>
 <h1>Bonjour à l'administrateur du site</h1>
 <h2>Vous souhaitez voir :</h2>
